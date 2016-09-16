@@ -1,0 +1,8 @@
+Testingapp.Droid.MainActivity, Testingapp.Droid;md595918d73866a215333317a8e8764051a.MainActivity
+Testingapp.Droid.MainActivity, Testingapp.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md595918d73866a215333317a8e8764051a.MainActivity
+Testingapp.Droid.MainActivity;md595918d73866a215333317a8e8764051a.MainActivity
+testingapp.droid.MainActivity;md595918d73866a215333317a8e8764051a.MainActivity
+Testingapp.Droid.LayoutActivity, Testingapp.Droid;md595918d73866a215333317a8e8764051a.LayoutActivity
+Testingapp.Droid.LayoutActivity, Testingapp.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md595918d73866a215333317a8e8764051a.LayoutActivity
+Testingapp.Droid.LayoutActivity;md595918d73866a215333317a8e8764051a.LayoutActivity
+testingapp.droid.LayoutActivity;md595918d73866a215333317a8e8764051a.LayoutActivity

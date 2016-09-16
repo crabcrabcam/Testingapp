@@ -1,0 +1,11 @@
+/Volumes/CAMR LE73DQ/Programming/C#/Testingapp/iOS/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Volumes/CAMR LE73DQ/Programming/C#/Testingapp/iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Volumes/CAMR LE73DQ/Programming/C#/Testingapp/iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Volumes/CAMR LE73DQ/Programming/C#/Testingapp/iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Volumes/CAMR LE73DQ/Programming/C#/Testingapp/iOS/obj/iPhoneSimulator/Debug/optimized/
+/Volumes/CAMR LE73DQ/Programming/C#/Testingapp/iOS/bin/iPhoneSimulator/Debug/Testingapp.iOS.exe.mdb
+/Volumes/CAMR LE73DQ/Programming/C#/Testingapp/iOS/bin/iPhoneSimulator/Debug/Testingapp.iOS.exe
+/Volumes/CAMR LE73DQ/Programming/C#/Testingapp/iOS/obj/iPhoneSimulator/Debug/Testingapp.iOS.exe
+/Volumes/CAMR LE73DQ/Programming/C#/Testingapp/iOS/obj/iPhoneSimulator/Debug/Testingapp.iOS.exe.mdb
+/Volumes/CAMR LE73DQ/Programming/C#/Testingapp/iOS/bin/iPhoneSimulator/Debug/Testingapp.dll
+/Volumes/CAMR LE73DQ/Programming/C#/Testingapp/iOS/bin/iPhoneSimulator/Debug/Testingapp.dll.mdb

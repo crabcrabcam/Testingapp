@@ -1,0 +1,7 @@
+/Volumes/CAMR LE73DQ/Programming/C#/Testingapp/iOS/obj/iPhoneSimulator/Release/mtouch-cache/Link/Xamarin.iOS.dll
+/Volumes/CAMR LE73DQ/Programming/C#/Testingapp/iOS/obj/iPhoneSimulator/Release/mtouch-cache/Link/Mono.Dynamic.Interpreter.dll
+/Volumes/CAMR LE73DQ/Programming/C#/Testingapp/iOS/obj/iPhoneSimulator/Release/mtouch-cache/Link/Testingapp.iOS.exe
+/Volumes/CAMR LE73DQ/Programming/C#/Testingapp/iOS/obj/iPhoneSimulator/Release/mtouch-cache/Link/System.Xml.dll
+/Volumes/CAMR LE73DQ/Programming/C#/Testingapp/iOS/obj/iPhoneSimulator/Release/mtouch-cache/Link/System.dll
+/Volumes/CAMR LE73DQ/Programming/C#/Testingapp/iOS/obj/iPhoneSimulator/Release/mtouch-cache/Link/mscorlib.dll
+/Volumes/CAMR LE73DQ/Programming/C#/Testingapp/iOS/obj/iPhoneSimulator/Release/mtouch-cache/Link/System.Core.dll

@@ -1,0 +1,2 @@
+android.app.Application
+com.magnorengaming.testing_app

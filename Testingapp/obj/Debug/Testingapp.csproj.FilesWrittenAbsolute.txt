@@ -1,0 +1,5 @@
+/Volumes/CAMR LE73DQ/Programming/C#/Testingapp/Testingapp/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Volumes/CAMR LE73DQ/Programming/C#/Testingapp/Testingapp/bin/Debug/Testingapp.dll.mdb
+/Volumes/CAMR LE73DQ/Programming/C#/Testingapp/Testingapp/bin/Debug/Testingapp.dll
+/Volumes/CAMR LE73DQ/Programming/C#/Testingapp/Testingapp/obj/Debug/Testingapp.dll
+/Volumes/CAMR LE73DQ/Programming/C#/Testingapp/Testingapp/obj/Debug/Testingapp.dll.mdb
